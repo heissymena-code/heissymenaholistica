@@ -1,0 +1,9 @@
+.git
+.gitignore
+.DS_Store
+README.md
+CAPROVER.md
+screenshots
+releases
+node_modules
+npm-debug.log
