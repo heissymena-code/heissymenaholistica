@@ -1178,6 +1178,9 @@ button, a {
   padding: 24px 0;
   border-bottom: 1px solid var(--line);
 }
+.text-center-justify {
+  text-align: justify;
+}
 .contact-row strong {
   display: block;
   color: var(--wine);
