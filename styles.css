@@ -742,6 +742,11 @@ button, a {
   margin: 7px 0 0;
   color: var(--muted);
 }
+.wpp-message-link {
+    display: flex;
+    justify-items: center;
+    column-gap: 3px;
+}
 .social-band {
   background: #fff;
 }
